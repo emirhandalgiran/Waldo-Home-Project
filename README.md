@@ -25,7 +25,7 @@ To make this repository working in your local machine you need only a browser.
 
 👤 **Social Profile**
 
-- Github: [@LefEARR](https://github.com/lefearr)
+- Github: [@LeFearr](https://github.com/lefearr)
 - Instagram: [@emirhan.dalgiran](https://instagram.com/emirhan.dalgiran)
 
 
