@@ -5,6 +5,9 @@
 # Project Preview
 
 ![screenshot](./assets/screenshot.png)
+![screenshot](./assets/screenshot2.png)
+![screenshot](./assets/screenshot3.png)
+![screenshot](./assets/screenshot4.png)
 
 
 
