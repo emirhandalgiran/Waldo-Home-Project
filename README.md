@@ -8,7 +8,7 @@
 <br>
 <img src ="https://github.com/LeFearr/Waldo-Home-Project/blob/main/assets/screenshot2.PNG">
 <br>
-<img src ="https://github.com/lefearr/hrms_project/blob/main/foto%C4%9Fraflahttps://github.com/LeFearr/Waldo-Home-Project/blob/main/assets/screenshot3.PNG">
+<img src ="https://github.com/LeFearr/Waldo-Home-Project/blob/main/assets/screenshot3.PNG">
 <br>
 <img src ="https://github.com/LeFearr/Waldo-Home-Project/blob/main/assets/screenshot4.PNG">
 
